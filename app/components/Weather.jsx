@@ -1,7 +1,7 @@
-const React = require('react');
-const WeatherForm = require('WeatherForm');
-const WeatherMessage = require('WeatherMessage');
-const openWeatherMap = require('openWeatherMap');
+let React = require('react');
+let WeatherForm = require('WeatherForm');
+let WeatherMessage = require('WeatherMessage');
+let openWeatherMap = require('openWeatherMap');
 
 let Weather = React.createClass({
   getInitialState: function () {

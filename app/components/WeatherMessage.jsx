@@ -1,4 +1,4 @@
-const React = require('react');
+let React = require('react');
 
 let WeatherMessage = ({temp, location}) => {
   return (

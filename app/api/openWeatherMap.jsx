@@ -1,4 +1,4 @@
-const axios = require('axios');
+let axios = require('axios');
 
 const OPEN_WEATHER_MAP_URL = 'http://api.openweathermap.org/data/2.5/weather?appid=d58363ce3744a0bf5f5e6c69511bf5bc&units=imperial';
 

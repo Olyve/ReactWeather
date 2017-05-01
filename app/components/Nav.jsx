@@ -1,5 +1,5 @@
-const React = require('react');
-const {Link, IndexLink} = require('react-router');
+let React = require('react');
+let {Link, IndexLink} = require('react-router');
 
 let Nav = (props) => {
   return (
